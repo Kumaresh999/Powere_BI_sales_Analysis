@@ -1,4 +1,4 @@
-# Powere_BI_sales_Analysis
+# Power_BI_sales_Analysis
 Identify the top 5 selling brands based on monthly sales.
 Determine the bottom 5 brand contributions.
 Analyze the growth of the top 5 brands and the decline in the bottom 5 brands.
